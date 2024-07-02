@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: cyril
+Build-Jdk: 17.0.10
+Implementation-Title: feedbackforum-business
+Implementation-Version: 1.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.cmr.dev.feedbackforum.business
+Implementation-URL: https://spring.io/projects/spring-boot/feedbackforum
+ -business
+Created-By: Maven Integration for Eclipse
+
